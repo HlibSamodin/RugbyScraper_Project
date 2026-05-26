@@ -20,12 +20,6 @@ A terminal app for live rugby scores, standings and fixtures — with animated U
 
 ---
 
-## Why I made this
-
-At 15, after finishing *Clean Code* by Robert C. Martin, I wanted to build something real to practice better coding. Rugby is my favourite sport, so I built a project I actually care about.
-
----
-
 ## Features
 
 ### v1.0
